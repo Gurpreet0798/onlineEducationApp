@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638328037535",
+    "project_id": "auth-learn-ca356",
+    "storage_bucket": "auth-learn-ca356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638328037535:android:ac4a7bef0b7bb531d6c2aa",
+        "android_client_info": {
+          "package_name": "com.gurpreet1005.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4hSjjrzvyF2hCY1FfULDF-77QroKo-5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
